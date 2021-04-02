@@ -1,3 +1,3 @@
-## Welcome to Mangizi
+## Coming soon
 
 Mangizi EOOD. © 2021
