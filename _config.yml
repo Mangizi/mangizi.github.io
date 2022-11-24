@@ -1,5 +1,6 @@
 remote_theme: jekyll/minima
 title: Mangizi
+copyright: "Mangizi EOOD © 2022"
 minima:
   social_links:
     - platform: github
