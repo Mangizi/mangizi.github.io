@@ -1,4 +1,4 @@
-## Apps
+# Apps
 
 [MonoSwitch](https://monoswitch.app)
 
